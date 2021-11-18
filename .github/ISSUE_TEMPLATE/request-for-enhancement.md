@@ -1,6 +1,9 @@
 ---
 name: Request for Enhancement
 about: Suggest enhancements or improvements to existing features.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

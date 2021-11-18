@@ -1,6 +1,9 @@
 ---
 name: Request for Feature
 about: Suggest a new Feature or command.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

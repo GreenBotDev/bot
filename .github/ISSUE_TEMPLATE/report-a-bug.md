@@ -1,6 +1,9 @@
 ---
 name: Report a Bug
 about: Alert us of a problem with GAwesomeBot
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
